@@ -1,0 +1,22 @@
+{
+    "status": "success",
+    "results": 2,
+    "totalPages": 1,
+    "currentPage": 1,
+    "data": {
+      "products": [
+        {
+          "_id": "64abc123def4567890123456",
+          "title": "Handmade Bracelet",
+          "price": 20.5,
+          "category": "مصنوعات يدوية",
+          "seller": {
+            "_id": "64def123abc4567890123456",
+            "name": "User Name",
+            "profileImage": "https://example.com/profile.jpg"
+          }
+        }
+      ]
+    }
+  }
+  
